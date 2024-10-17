@@ -2,16 +2,16 @@
 
 <p>Um site de receita de cupcake para você!</p>
 
-<p> Sobre</p>
+<h2> Sobre </h2>
 
-Este projeto tem o objetivo mostra meu desenvolvimento na carreira fullstack, onde estou apredendo habilidades novas para aumentar meus conhecimentos!
+<p>Este projeto tem o objetivo mostra meu desenvolvimento na carreira fullstack, onde estou apredendo habilidades novas para aumentar meus conhecimentos!</p>
 
-## Tecnologias Utilizadas
-
-* **Frontend:** HTML5, CSS3, JavaScript
-* **Editor de código:** Visual Studio Code (opcional, caso utilizado)
-
-## Estrutura do Projeto
+<h1> Tecnologias Utilizadas</h1>
+<ul>
+  <li>Frontend:** HTML5, CSS3, JavaScript</li>
+  <li>Editor de código:** Visual Studio Code (opcional, caso utilizado)</li>
+</ul>
+<h1>Estrutura do Projeto</h1>
 
 * **index.html:** Página principal do site.
 * **styles.css:** Arquivo de estilos CSS.

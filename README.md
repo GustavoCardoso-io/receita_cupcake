@@ -4,7 +4,7 @@
 
 <h2> Sobre </h2>
 
-<p>Este projeto tem o objetivo mostra meu desenvolvimento na carreira fullstack, onde estou apredendo habilidades novas para aumentar meus conhecimentos!</p>
+<p>Este projeto é um laboratório para a experimentação de novas tecnologias e conceitos do desenvolvimento fullstack. Através dele, busquei aplicar na prática os conhecimentos adquiridos, construindo uma aplicação real e funcional.</p>
 
 <h1> Tecnologias Utilizadas</h1>
 <ul>
